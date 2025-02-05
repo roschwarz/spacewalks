@@ -4,7 +4,7 @@ import datetime as dt
 import matplotlib.pyplot as plt
 
 # https://data.nasa.gov/resource/eva.json (with modifications)
-data_f = open('./eva-datajson', 'r')
+data_f = open('./eva-data.json', 'r')
 data_t = open('./eva-data.csv','w')
 g_file = './cumulative_eva_graph.png'
 
