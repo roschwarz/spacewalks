@@ -1,4 +1,8 @@
+[![CI](https://github.com/roschwarz/spacewalks/actions/workflows/main.yml/badge.svg)](https://github.com/roschwarz/spacewalks/actions/workflows/main.yml)
+
 # Spacewalks
+
+
 
 ## Overview
 Spacewalks is a Python analysis tool for researchers to generate visualisations
