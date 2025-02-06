@@ -2,3 +2,5 @@ venv_*
 results/*
 __pycache__
 !results/.blubb
+htmlcov/*
+.coverage
