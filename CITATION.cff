@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Spacewalks
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+author:
+  - given-names: Schwarz
+    name-particle: Robert
+repository-code: >-
+  https://github.com/roschwarz/spacewalks
+abstract: >-
+  A Python script to analyse NASA extravehicular activity
+  data
+keywords:
+  - NASA
+  - Extravehicular activity
