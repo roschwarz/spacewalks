@@ -4,3 +4,4 @@ __pycache__
 !results/.blubb
 htmlcov/*
 .coverage
+site/*
