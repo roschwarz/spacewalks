@@ -109,7 +109,7 @@ if __name__ == "__main__":
 
     if len(sys.argv) < 3:
         input_file = './data/eva-data.json'
-        output_file = './data/eva-data.csv'
+        output_file = './results/eva-data.csv'
         print(f'Using default input and output filenames')
     else:
         input_file = sys.argv[1]
